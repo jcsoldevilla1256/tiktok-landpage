@@ -1,0 +1,56 @@
+
+/* GENERAL */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    max-width: 450px;
+    margin: auto;
+    background-color:  #111111;
+}
+
+body {
+    border: solid white 2px;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* HEADER */
+img {
+    max-width: 80px;
+    height: auto;
+    border-radius: 100px;
+    padding: 10px 0 10px 10px;
+}
+
+a:visited {
+   color: whitesmoke;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.header-text {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.head {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.icon-container {
+    display: flex;
+    gap: 15px;
+}
