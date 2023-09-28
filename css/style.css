@@ -13,24 +13,28 @@ html {
 
 body {
     border: solid white 2px;
-    color: whitesmoke;
+    color: #FFFFFF;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.padding {
+    margin: 20px;
 }
 
 /* HEADER */
 img {
-    max-width: 80px;
+    max-width: 100px;
     height: auto;
+    border: solid #FFE071 3px;
     border-radius: 100px;
-    padding: 10px 0 10px 10px;
 }
 
 a:visited {
-   color: whitesmoke;
+   color: #A3ABB2;
 }
 
 a:hover {
-    color: yellow;
+    color: #FFE071;
 }
 
 .header-text {
@@ -39,10 +43,15 @@ a:hover {
     gap: 3px;
 }
 
+.subtext {
+    color: #A3ABB2;
+}
+
 .header {
     display: flex;
     align-items: center;
     gap: 30px;
+    margin-bottom: 20px;
 }
 
 .head {
@@ -54,3 +63,12 @@ a:hover {
     display: flex;
     gap: 15px;
 }
+
+.line {
+    border: #535353 1px solid;
+    border-width: thin;
+    margin: 30px 0;
+}
+
+
+
