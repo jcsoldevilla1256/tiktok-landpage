@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Open+Sans&family=Roboto&display=swap');
 
 /* GENERAL */
 * {
@@ -13,7 +14,7 @@ html {
 
 body {
     color: #FFFFFF;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .padding {
@@ -28,7 +29,8 @@ img {
     border-radius: 100px;
 }
 
-a:visited {
+
+a:visited, a {
    color: #A3ABB2;
 }
 
