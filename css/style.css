@@ -100,5 +100,15 @@ a:hover {
     border-radius: 5px;
 }
 
+.button a {
+    text-decoration: none;
+    color: black;
+}
+
+.button button:hover {
+    border: solid gray 2px;
+    cursor: pointer;
+}
+
 
 
