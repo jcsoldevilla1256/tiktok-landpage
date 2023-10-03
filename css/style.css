@@ -74,6 +74,9 @@ a:hover {
 }
 
 /* SECTION 1 */
+.section-1 {
+    margin-bottom: 20px;
+}
 .s1-title {
     display: flex;
     justify-content: center;
@@ -106,9 +109,11 @@ a:hover {
 }
 
 .button button:hover {
-    border: solid gray 2px;
+    background-color: white;
     cursor: pointer;
 }
+
+/* SECTION 2 */
 
 
 
