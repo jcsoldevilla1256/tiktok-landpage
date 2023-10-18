@@ -161,3 +161,14 @@ a:hover {
     gap: 10px;
     flex-wrap: wrap;
 }
+
+.section-2 {
+    margin-bottom: 20px;
+}
+
+/* SECTION 3 */
+
+video {
+    width: 50%;
+    height: auto;
+}
