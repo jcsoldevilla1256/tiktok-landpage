@@ -121,8 +121,10 @@ a:hover {
 .card {
     box-shadow: 0 1px 3px 0 gray;
     transition: 0.3s;
-    width: 105px;
+    min-width: 105px;
+    max-width: 130px;
     border-radius: 5px;
+    flex: 1;
 }
 
 .card img {
@@ -146,3 +148,16 @@ a:hover {
     margin-bottom: 3px;
 }
 
+.card a {
+    text-decoration: none;
+}
+
+.card a:hover {
+    color: #A3ABB2;
+}
+
+.card-container {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
