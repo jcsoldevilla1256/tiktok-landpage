@@ -172,6 +172,7 @@ a:hover {
     display: flex;
     flex: 1;
     gap: 10px;
+    margin-bottom: 10px;
 }
 
 video {
