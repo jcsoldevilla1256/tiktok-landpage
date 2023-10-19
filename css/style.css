@@ -168,7 +168,24 @@ a:hover {
 
 /* SECTION 3 */
 
+.video-container {
+    display: flex;
+    flex: 1;
+    gap: 10px;
+}
+
 video {
     width: 50%;
     height: auto;
+    border-radius: 5px;
+}
+
+.video-description {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.fa-solid {
+    font-size: 15px;
 }
