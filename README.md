@@ -1,1 +1,1 @@
-This in my first personal project. I will make a land page for my TikTok. The web page that I will make will help students to access my personal notes, link of books that I bought, and the personal products I use in my studies.
+This is my first personal project. I will make a land page for my TikTok. The web page that I will make will help students to access my personal notes, link of books that I bought, and the personal products I use in my studies.
